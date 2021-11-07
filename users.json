@@ -1,26 +1,35 @@
 {
-    "TEAM_LOYAL": [
+    TEAM_LOYAL:
+    {
 
-    ],
-    "TEAM_VEDROCIONIST": [
+    },
+    TEAM_VEDROCIONIST:
+    {
 
-    ],
-    "TEAM_GRATA": [
-        
-    ],
-    "TEAM_INSPECTOR": [
+	},
+    TEAM_GRATA:
+    {
 
-    ],
-    "TEAM_PUBLICIST": [
+	},
+    TEAM_INSPECTOR:
+	{
 
-    ],
-    "TEAM_DEVELOPER": [
 
-    ],
-    "TEAM_MODERATOR": [
+	},
+    TEAM_PUBLICIST:
+	{
 
-    ],
-    "TEAM_OFFICER": [
+	},
+    TEAM_DEVELOPER:
+	{
 
-    ]
+	},
+    TEAM_MODERATOR:
+	{
+
+	},
+    TEAM_OFFICER:
+	{
+
+	}
 }
